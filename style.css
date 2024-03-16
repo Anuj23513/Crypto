@@ -260,7 +260,7 @@ body{
 }
 
 #join h3{
-    color:black;
+    color:#f3f3f3;
     text-align: center;
     margin: 20px;
     font-size: 35px;
@@ -272,7 +272,7 @@ body{
     border: 2px solid rgb(46, 43, 43);
     border-radius: 10px;
     margin-top: 20px;
-    margin-left: 44vw;
+    margin-left: 47vw;
 }
 
 #join a:hover{
